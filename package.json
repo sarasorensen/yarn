@@ -1,0 +1,12 @@
+{
+  "name": "yarnMA2",
+  "version": "y",
+  "description": "\"module workflow MA2\"",
+  "main": "(index.js)",
+  "author": "Sara Sørensen",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "yarn": "sarasorensen/yarn"
+  }
+}
